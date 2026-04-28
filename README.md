@@ -15,7 +15,7 @@ The app allows users to record workouts, search by muscle group, and store data 
 
 ---
 
-## 🧵 Multithreading
+##  Multithreading
 This project uses multiple threads that interact safely using `Monitor`:
 
 - **Workout Thread** – Handles recording workouts
